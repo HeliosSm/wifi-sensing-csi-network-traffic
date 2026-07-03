@@ -1,0 +1,9 @@
+# Dependencias de Python para el procesamiento y análisis de CSI
+# Instalar con:  pip install -r requirements.txt
+
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+scikit-learn>=1.1
+matplotlib>=3.6
+pyserial>=3.5      # solo necesario para los scripts de captura (captura_automatica*.py)

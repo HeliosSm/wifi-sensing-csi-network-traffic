@@ -8,7 +8,7 @@ con dos microcontroladores **ESP32-C6**.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21148027.svg)](https://doi.org/10.5281/zenodo.21148027)
 
-**Conjunto de datos completo (Zenodo):** <https://doi.org/10.5281/zenodo.21148027> — incluye los datos CSI y el registro en video del Escenario 4. (DOI de concepto: siempre resuelve a la última versión.)
+**Conjunto de datos (Zenodo):** <https://doi.org/10.5281/zenodo.21148027> — DOI de concepto que agrupa todas las versiones del registro: los datos CSI, scripts y figuras (v1) y el registro en video del Escenario 4 (v2). Siempre resuelve a la versión más reciente; usa el panel *Versions* para navegar entre ellas.
 
 ---
 

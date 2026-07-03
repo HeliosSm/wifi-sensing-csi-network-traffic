@@ -6,11 +6,9 @@ del Canal (**CSI**) provocadas por el **tráfico de red** pueden distinguirse de
 generadas por el **movimiento humano**, empleando un banco de pruebas de bajo costo
 con dos microcontroladores **ESP32-C6**.
 
-<!-- Cuando publiques el conjunto de datos completo en Zenodo, reemplaza el
-     siguiente marcador por la insignia real del DOI:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
--->
-**DOI del conjunto de datos (Zenodo):** _pendiente de asignar_
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21148028.svg)](https://doi.org/10.5281/zenodo.21148028)
+
+**Conjunto de datos completo (Zenodo):** <https://doi.org/10.5281/zenodo.21148028> — incluye los datos CSI y el registro en video del Escenario 4.
 
 ---
 
